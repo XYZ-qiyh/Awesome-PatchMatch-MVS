@@ -23,18 +23,8 @@
 #### To Be Continued...
 
 ### Multi-view Reconstruction Softwares
-+ MVE (MVE—An image-based reconstruction environment)
-+ OpenMVS
-+ COLMAP
++ [MVE](https://github.com/simonfuhrmann/mve) (an image-based reconstruction environment)
++ [OpenMVG](https://github.com/openMVG/openMVG) (open Multiple View Geometry library)
++ [OpenMVS](https://github.com/cdcseacave/openMVS) (open Multi-View Stereo reconstruction library)
++ [COLMAP](https://github.com/colmap/colmap) (a general-purpose Structure-from-Motion and Multi-View Stereo pipeline) [[tools](https://github.com/XYZ-qiyh/colmap_sparse_recon)]
 
-
-<!--
-#### PatchMatch Algorithms
-
-+ MVSNet: Depth Inference for Unstructured Multi-view Stereo
-
-Softwares:
-
-OpenMVS
-COLMAP
---->
