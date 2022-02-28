@@ -4,7 +4,6 @@
 
 ![timeline_for_PatchMatch_MVS](./figures/timeline_PatchMatch.png)
 
-
 #### PatchMatch Stereo
 + [Patchmatch stereo-stereo matching with slanted support windows](https://www.microsoft.com/en-us/research/wp-content/uploads/2011/01/PatchMatchStereo_BMVC2011_6MB.pdf), BMVC 2011 [[code](https://github.com/ethan-li-coding/PatchMatchStereo)]
 
