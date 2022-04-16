@@ -27,3 +27,7 @@
 + [OpenMVS](https://github.com/cdcseacave/openMVS) (open Multi-View Stereo reconstruction library)
 + [COLMAP](https://github.com/colmap/colmap) (a general-purpose Structure-from-Motion and Multi-View Stereo pipeline) [[tools](https://github.com/XYZ-qiyh/colmap_sparse_recon)]
 
+### More about PatchMatch Multi-view Stereo
+please refer to Sec.2 of TAPA-MVS paper
+
+![History_for_PatchMatch_MVS](./figures/Romanoni_TAPA-MVS_Textureless-Aware_PAtchMatch_Multi-View_Stereo_ICCV_2019_paper-2.png)
