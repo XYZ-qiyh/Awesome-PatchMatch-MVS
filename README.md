@@ -28,7 +28,9 @@
 + [COLMAP](https://github.com/colmap/colmap) (a general-purpose Structure-from-Motion and Multi-View Stereo pipeline) [[tools](https://github.com/XYZ-qiyh/colmap_sparse_recon)]
 
 ### More about PatchMatch for Multi-view Stereo
-(from Section 2 of TAPA-MVS paper)
+
+<details>
+  <summary>📃 PatchMatch for MVS (from Section 2 of TAPA-MVS paper) </summary>
 
 The PatchMatch seminal paper by Barnes \etal \cite{barnes2009patchmatch} proposed a general method to efficiently compute an approximate nearest neighbor function defining the pixelwise correspondence among patches of two images. 
 The idea is to use a collaborative search which exploits local coherency. 
@@ -55,3 +57,4 @@ Sch{\"o}nberger \etal \cite{schonberger2016pixelwise} extended this method to jo
 
 The PatchMatch based methods described thus far, have been proven to be among the top performing approachs in several MVS benchmarks \cite{seitz_et_al06,strecha2008,jensen2014large,schoeps2017cvpr}. However, some issues are still open. In particular, most of them strongly rely on photo-consistency measures to discriminate among depth hypotheses. Even if this works remarkably for textured areas and the propagation scheme partially induces smoothness, untextured regions are often poorly reconstructed. 
 For this reason, we propose two proxies to improve the reconstruction where untextured areas appear. On the one hand, we seamlessly extend the probabilistic framework to explicitly detect and handle untextured regions by extending the set of PatchMatch hypotheses. On the other side, we complete the depth estimation with a refinement procedure to fill the missing depth estimates.
+</details>
