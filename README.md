@@ -61,3 +61,5 @@ Rather than considering the whole set of images to compute the matching costs, [
 [Schonberger et al.](https://link.springer.com/content/pdf/10.1007%2F978-3-319-46487-9_31.pdf) extended this method to jointly estimate per-pixel depths and normals, such that,  differently from [Zheng et al.](https://ieeexplore.ieee.org/document/6909592/), the knowledge of the normals enables slanted support windows to avoid the fronto-parallel assumption. Then they add view-dependent priors to select views that more likely induce robust matching cost computation.
 
 </details>
+
+📃 Blog of ACMH/ACMM/ACMP [[Link](https://mp.weixin.qq.com/s/xEOSica0kYxOgwmGFQKbRA)] 
