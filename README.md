@@ -1,7 +1,8 @@
 ## Awesome-PatchMatch-MVS (Algorithms and Softwares)
-
+<!--
 ### PatchMatch pipeline
 ![pipeline_of_PatchMatch_MVS](./figures/pipeline_PatchMatch.png)
+-->
 
 ### Timeline for PatchMatch MVS Algorithms
 
