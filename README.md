@@ -2,7 +2,7 @@
 <!---->
 
 ### Methods classification
-![Methods classification](./figures/methods_cls.png)
+![Methods classification](./figures/related_works.png)
 
 ### Timeline for PatchMatch MVS Algorithms
 
