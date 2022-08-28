@@ -2,11 +2,11 @@
 <!---->
 
 ### Methods classification
-![Methods classification](./figures/related_works.png)
+![Methods classification](./figures/related_works2.png)
 
 ### Timeline for PatchMatch MVS Algorithms
 
-![timeline_for_PatchMatch_MVS](./figures/timeline_PatchMatch.png)
+![timeline_for_PatchMatch_MVS](./figures/timeline_PatchMatch2.png)
 
 ( 💻 means code available)
 
