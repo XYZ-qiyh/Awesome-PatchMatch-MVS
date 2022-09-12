@@ -24,6 +24,7 @@
 + [Tapa-mvs: Textureless-aware patchmatch multi-view stereo](https://openaccess.thecvf.com/content_ICCV_2019/papers/Romanoni_TAPA-MVS_Textureless-Aware_PAtchMatch_Multi-View_Stereo_ICCV_2019_paper.pdf), ICCV 2019 
 + [Plane completion and filtering for multi-view stereo reconstruction](https://www.researchgate.net/publication/335340045_Plane_Completion_and_Filtering_for_Multi-View_Stereo_Reconstruction), GCPR 2019 
 + 💻 [Planar prior assisted patchmatch multi-view stereo](https://ojs.aaai.org/index.php/AAAI/article/view/6940), AAAI 2020 [[ACMP](https://github.com/GhiXu/ACMP)]
++ 💻 [Multi-Scale Geometric Consistency Guided and Planar Prior Assisted Multi-View Stereo](https://ieeexplore.ieee.org/abstract/document/9863705), T-PAMI 2022 [[ACMMP]](https://github.com/GhiXu/ACMMP)
 
 #### 
 
