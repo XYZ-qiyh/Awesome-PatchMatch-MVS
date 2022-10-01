@@ -1,10 +1,11 @@
 ## Awesome-PatchMatch-MVS (Algorithms and Softwares)
-<!---->
 
+<!--
 ### Methods classification
 ![Methods classification](./figures/related_works.png)
+-->
 
-### Timeline for PatchMatch MVS Algorithms
+### Timeline of PatchMatch MVS Algorithms
 
 ![timeline_for_PatchMatch_MVS](./figures/timeline_PatchMatch.png)
 
