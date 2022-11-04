@@ -35,11 +35,14 @@
   + 💻 [OpenMVG](https://github.com/openMVG/openMVG) (open Multiple View Geometry library)
   + 💻 [OpenMVS](https://github.com/cdcseacave/openMVS) (open Multi-View Stereo reconstruction library)
   + 💻 [COLMAP](https://github.com/colmap/colmap) (a general-purpose Structure-from-Motion and Multi-View Stereo pipeline) [[sparse](https://github.com/XYZ-qiyh/colmap_sparse_recon)] [[dense](https://github.com/XYZ-qiyh/colmap_dense_recon)]
-  + 💻 [MeshLab](https://github.com/cnr-isti-vclab/meshlab) / [Open3D](http://www.open3d.org/docs/release/getting_started.html) (visualization of point cloud & triangle mesh)
 + Commercial Softwares
   + DJI-Terra ([大疆智图](https://www.dji.com/cn/dji-terra))
   + Smart3D
   + ContextCapture
++ Visualization (visualization of point cloud & triangle mesh)
+  + [MeshLab](https://github.com/cnr-isti-vclab/meshlab)
+  + [Open3D](http://www.open3d.org/docs/release/introduction.html)
+  + [trimesh](https://trimsh.org/)
 
 ### More about PatchMatch for Multi-view Stereo
 
